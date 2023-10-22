@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@*": ["./*"]
+    }
+  }
+}
+
+// kalo @/* , artinya harus @/styles/...
+// jadi @*, artinya @styles/...
